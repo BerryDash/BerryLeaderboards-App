@@ -286,7 +286,7 @@
 					"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)",
 					"$(TOOLCHAIN_DIR)/usr/lib/swift-5.0/$(PLATFORM_NAME)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "xyz.lncvrt.Berry-Leaderboards";
+				PRODUCT_BUNDLE_IDENTIFIER = xyz.lncvrt.Berry-Leaderboards;
 				PRODUCT_NAME = "berry-leaderboards";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -450,7 +450,7 @@
 					"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)",
 					"$(TOOLCHAIN_DIR)/usr/lib/swift-5.0/$(PLATFORM_NAME)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "xyz.lncvrt.Berry-Leaderboards";
+				PRODUCT_BUNDLE_IDENTIFIER = xyz.lncvrt.Berry-Leaderboards;
 				PRODUCT_NAME = "berry-leaderboards";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
